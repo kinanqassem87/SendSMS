@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2010\Projects\SendSMS\SendSMS\bin\Debug\SendSMS.exe
+c:\users\user\documents\visual studio 2010\Projects\SendSMS\SendSMS\bin\Debug\SendSMS.pdb
+c:\users\user\documents\visual studio 2010\Projects\SendSMS\SendSMS\obj\x86\Debug\SendSMS.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\SendSMS\SendSMS\obj\x86\Debug\SendSMS.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\SendSMS\SendSMS\obj\x86\Debug\SendSMS.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\SendSMS\SendSMS\obj\x86\Debug\SendSMS.exe
+c:\users\user\documents\visual studio 2010\Projects\SendSMS\SendSMS\obj\x86\Debug\SendSMS.pdb
+C:\Users\User\documents\visual studio 2010\Projects\SendSMS\SendSMS\obj\x86\Debug\SendSMS.csprojResolveAssemblyReference.cache
